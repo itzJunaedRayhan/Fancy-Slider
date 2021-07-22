@@ -147,8 +147,6 @@ EnterButtonSearch('search','search-btn')
 
 
 
-
-
 //      ************************************      Extra Features for Bonus Marks      *************************************
 //  Spinner added
 const toggleSpinner = (show) => {
